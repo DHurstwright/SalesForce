@@ -1,0 +1,7 @@
+Boolean MyBoolean;
+if(I==1234){
+    MyBoolean=true;
+} else {
+    MyBoolean=false;
+}
+System.debug('This is Boolean---' + MyBoolean);

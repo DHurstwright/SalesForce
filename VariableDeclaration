@@ -1,0 +1,23 @@
+//Variable is a place to store data
+//Declaring a test variable:
+String X;
+//A string is a text variable
+X = 'Blah Blah Blah';
+System.debug('This is just a comment'  + X);
+
+Integer I;
+I= 123;
+System.debug('This is I---'+ I);
+
+
+Date D;
+D = Date.Today(); 
+System.debug('This is Date--'+D);
+
+DateTime DT;
+DT = DateTime.now();
+System.debug('What is this?---' +DT);
+
+Boolean MyBoolean;
+MyBoolean = True;
+System.debug('This is Boolean---' + MyBoolean);
